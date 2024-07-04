@@ -1,11 +1,7 @@
 Dataset Source Link : https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis/data
 
 Libraries Used:
-pandas
-numpy
-matplotlib
-seaborn
-squarify
+pandas, numpy, matplotlib, seaborn, squarify
 
 
 Data preprocessing was performed with the market dataset. Best sellers analyzed and visualized.
